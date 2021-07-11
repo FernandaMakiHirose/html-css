@@ -1,6 +1,9 @@
 # Exercícios para treinar HTML e CSS
 Nesse repositório eu abordei sobre HTML é uma linguagem para publicação de conteúdo (texto, imagem, vídeo, áudio e etc) e o Cascading Style Sheets (Folhas de estilo) é responsável por estilizar a página web. A partir do CSS é possível personalizar todo esqueleto HTML, por exemplo, ele funciona como uma camada visual para a apresentação da página.
 
+## Pré-requisitos
+- Utilizar uma IDEA
+
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
 
