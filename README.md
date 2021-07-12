@@ -3,7 +3,7 @@ Nesse repositório eu abordei sobre HTML, a qual é uma linguagem para publicaç
 responsável por estilizar a página web. A partir do CSS é possível personalizar todo esqueleto HTML, por exemplo, ele funciona como uma camada visual para a apresentação da página.
 
 ## Pré-requisitos
-- IDEA instalada.
+IDEA instalada.
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
